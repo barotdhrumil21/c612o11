@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:51:43	336/336	---M--	301	error ('Moved%20Permanently')	text/html	date:Mon,%2008%20Jul%202019%2005:21:41%20GMT	https://www.tagheuer.com/alec-monopoly-watches	C:/Users/barot/Desktop/CounterVision/alec-monopoly/countervision%20website/www.tagheuer.com/alec-monopoly-watches.0.delayed	(from )
+10:51:43	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Mon,%2008%20Jul%202019%2005:21:41%20GMT	http://www.tagheuer.com/alec-monopoly-watches/	C:/Users/barot/Desktop/CounterVision/alec-monopoly/countervision%20website/www.tagheuer.com/alec-monopoly-watches/index.html	(from )
+10:51:43	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Mon,%2008%20Jul%202019%2005:21:41%20GMT	http://www.tagheuer.com/robots.txt		(from )
